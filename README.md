@@ -1,2 +1,3 @@
-# cpp-calculator
-Simple cpp calculator
+# SIMPLE EXERCISES C++
+
+The codes here contain my C++ exercises.
